@@ -16,8 +16,13 @@ Helps users organize tasks with add, update, and delete functionality.
 
 ## Screenshots
 
+### Default Todo list
 ![Default Todo list](./screenshot/screenshot1.png)
+
+### Task Added
 ![Add Task](./screenshot/screenshot2.png)
+
+### Task Deleted
 ![Delete Task](./screenshot/screenshot1.png)
 
 ## Features
