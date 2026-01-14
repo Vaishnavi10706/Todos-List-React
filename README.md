@@ -16,11 +16,11 @@ This app helps users organise their tasks in a to-do list format. It demonstrate
 
 ## 📸 Screenshots
 ### Default Todo list
-![Default Todo list](./screenshot/default.png)
+![Default Todo list](./screenshot/screeanshot1.png)
 ### Task Added
-![Task Added](./screenshot/added.png)
+![Task Added](./screenshot/screenshot2.png)
 ### Task Deleted
-![Task Deleted](./screenshot/deleted.png)
+![Task Deleted](./screenshot/screenshot1.png)
 
 ## ✨ Features
 - Add new tasks
