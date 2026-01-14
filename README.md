@@ -1,46 +1,42 @@
 # ✅ Todo Task Management App
 
-## Overview
+A responsive React app to manage daily tasks — add, delete, and view tasks with ease.  
+Built to practice component structuring, state handling, and user interaction in React.
 
-A simple task management app built using React that allows users to manage daily tasks efficiently.
+## 🚀 Overview
+This app helps users organise their tasks in a to-do list format. It demonstrates React fundamentals like:
+- Component-based UI
+- Local state management
+- Props and user event handling
 
-## Problem It Solves
-
-Helps users organize tasks with add, update, and delete functionality.
-
-## Tech Stack
-
+## 🛠️ Tech Stack
 - React.js
 - JavaScript
-- CSS
+- HTML & CSS
 
-## Screenshots
-
+## 📸 Screenshots
 ### Default Todo list
-![Default Todo list](./screenshot/screenshot1.png)
-
+![Default Todo list](./screenshot/default.png)
 ### Task Added
-![Add Task](./screenshot/screenshot2.png)
-
+![Task Added](./screenshot/added.png)
 ### Task Deleted
-![Delete Task](./screenshot/screenshot1.png)
+![Task Deleted](./screenshot/deleted.png)
 
-## Features
-
+## ✨ Features
 - Add new tasks
-- Delete completed tasks
-- Clean and simple UI
-- Component-based structure
+- Delete tasks
+- Responsive UI
+- Clean component structure
 
-## What I Learned
-
-- State management in React
+## 📚 What I Learned
+- React state management using `useState`
 - Passing props between components
-- Structuring a React project
-- Writing cleaner commit messages
+- Structuring a simple React project
+- Working with event handlers and list rendering
 
-## How to Run Locally
-
-1. Clone the repository
-2. Run `npm install`
-3. Run `npm start`
+## 🧪 How To Run Locally
+```bash
+git clone https://github.com/Vaishnavi10706/Todos-List-React
+cd Todos-List-React
+npm install
+npm start
