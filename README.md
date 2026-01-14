@@ -14,6 +14,12 @@ Helps users organize tasks with add, update, and delete functionality.
 - JavaScript
 - CSS
 
+## Screenshots
+
+![Default Todo list](./screenshot/screenshot1.png)
+![Add Task](./screenshot/screenshot2.png)
+![Delete Task](./screenshot/screenshot1.png)
+
 ## Features
 
 - Add new tasks
