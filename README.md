@@ -1,5 +1,7 @@
 # ✅ Todo Task Management App
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://todos-list-react-1z1jma8i3-vaishnavis-projects-0f004a3f.vercel.app)
+
 A responsive React app to manage daily tasks — add, delete, and view tasks with ease.  
 Built to practice component structuring, state handling, and user interaction in React.
 
