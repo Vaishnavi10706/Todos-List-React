@@ -23,7 +23,7 @@ This app helps users organise their tasks in a to-do list format. It demonstrate
 
 ### Default Todo list
 
-![Default Todo list](./screenshot/screeanshot1.png)
+![Default Todo list](./screenshot/screenshot1.png)
 
 ### Task Added
 
